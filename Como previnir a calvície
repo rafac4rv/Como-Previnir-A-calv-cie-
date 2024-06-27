@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prevenção da Calvície - Dr. Rafael Segale</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #fff;
+            width: 100%;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        main {
+            width: 100%;
+            max-width: 800px;
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        footer {
+            background-color: #fff;
+            width: 100%;
+            padding: 10px;
+            text-align: center;
+            box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Prevenção da Calvície</h1>
+        <p>Dr. Rafael Segale</p>
+    </header>
+    <main>
+        <section>
+            <h2>Introdução</h2>
+            <p>A calvície é uma preocupação comum para muitos homens e mulheres. Felizmente, existem várias maneiras de prevenir a perda de cabelo. Neste site, exploramos algumas das melhores estratégias para manter seu cabelo saudável.</p>
+        </section>
+        <section>
+            <h2>Alimentação Saudável</h2>
+            <p>Uma dieta equilibrada rica em vitaminas e minerais é essencial para a saúde do cabelo. Consuma alimentos ricos em vitamina A, vitamina E, ferro e zinco.</p>
+            <img src="https://example.com/imagem-dieta.jpg" alt="Alimentos saudáveis">
+        </section>
+        <section>
+            <h2>Cuidados com o Cabelo</h2>
+            <p>Evite usar produtos químicos agressivos e minimize o uso de ferramentas de calor como secadores e chapinhas. Lave o cabelo regularmente com um shampoo suave.</p>
+            <img src="https://example.com/imagem-cuidados-cabelo.jpg" alt="Cuidados com o cabelo">
+        </section>
+        <section>
+            <h2>Vídeos Informativos</h2>
+            <p>Confira alguns vídeos que explicam mais sobre a prevenção da calvície:</p>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=video1" target="_blank">Vídeo 1: Dicas para prevenir a calvície</a></li>
+                <li><a href="https://www.youtube.com/watch?v=video2" target="_blank">Vídeo 2: Alimentos que fortalecem o cabelo</a></li>
+                <li><a href="https://www.youtube.com/watch?v=video3" target="_blank">Vídeo 3: Cuidados diários com o cabelo</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Dr. Rafael Segale. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
